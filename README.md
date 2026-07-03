@@ -3,3 +3,4 @@
 、更新顯卡驅動至最新，下載Openvino驅動[否則NPU用不了]
 、本專案使用者願負一切責任，與本發布者無關
 、下載python12.9環境，確認yolo環境穩定
+、支持我:[BNB:0x4c201be0d0e55d975617da75f8ef470fda8d6d11，ETH:0x4c201be0d0e55d975617da75f8ef470fda8d6d11，USDT or USDC:0x4c201be0d0e55d975617da75f8ef470fda8d6d11]
